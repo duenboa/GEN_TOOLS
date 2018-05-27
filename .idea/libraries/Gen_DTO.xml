@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gen_DTO">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Gen_DTO.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
